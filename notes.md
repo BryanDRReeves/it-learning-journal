@@ -42,3 +42,27 @@ A short joke story in `hello.py` using `print()`. I ran it from the terminal, st
 - Linux: `mkdir`, `touch`, `cp`, `mv`, `rm`, `cat`, `man`
 - Linux Journey "Grasshopper" section
 - Python: keep practicing scripts
+
+
+
+
+## Training Day 2
+### Note:
+- After an hour of learning and starting to begain my notes, I realized I will spend more time trying to recreate the format given by the AI model used to start this, that I would spend more time writing out my notes that actually studying. Not necessarily a bad thing, but it isn't the main goal of this. The goal of my notes is to show what I did to further my knowlege and what I learned from it. So, moving forward, my notes will be more casual.
+
+**Topics:** Learning more basic Linux
+**Time studied:** [1 hr]
+
+### Linux
+**Goals**
+- [x] Start Labex Linux Journey course
+- [x] Learn history and learn more about different Linux Distrobutions
+
+**What I learned**
+
+- The same story about how linux started that you read/hear/watch at the begining or any material that teaches the basics of linux.
+- Learned about the Distributions and what they are best/created for.
+
+## What I struggled with 
+-Boredom... As a Tactile and kinesthetic learner, I learn by hands on. from what I was told, this will change and it will become more intereactive later. So I will continue with it.
+      
