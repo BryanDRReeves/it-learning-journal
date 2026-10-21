@@ -1,7 +1,7 @@
 Disclaimer: Starting from zero, I used AI resources (primarily Claude AI) to help set up the training so that it was tailored to me. I also used AI to learn how to set up, structure, and create these repositories and files. Moving forward, I plan to use the structure AI created as a reference for organization only. The rest will be in my words (sorry). The primary reason for doing this was to ensure the repository was well-structured and easy to understand.
 
 # About 
-I'm building a career in IT, starting with learing Linux, getting my first IT job (help desk?), networking, and Dev or cloud Ops. This repo shows where I am and how I got here.
+I'm building a career in IT, starting with learing Linux, getting my first IT job (help desk?), networking, and Dev or Cloud Ops. This repo shows where I am and how I got here.
 
 
 **Currently studying:** CompTIA A+, Python basics, home lab on Ubuntu
