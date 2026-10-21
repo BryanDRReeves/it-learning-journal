@@ -66,3 +66,59 @@ A short joke story in `hello.py` using `print()`. I ran it from the terminal, st
 ## What I struggled with 
 -Boredom... As a Tactile and kinesthetic learner, I learn by hands on. from what I was told, this will change and it will become more intereactive later. So I will continue with it.
       
+
+
+
+## Training Day 2
+### Note:
+- I'm still learning and setting my standard as I go, so this format will keep changing as I figure out what works. On Day 2 my notes weren't as good because I went through the lesson first and then wrote them from memory. Today I tried typing notes as I learned, but it took too much time during the lesson and I wasn't able to finish it. Next time I'll jot quick notes on a notepad in my own words, then use Claude to organize them so they're easier for readers to follow. I take my notes in the default Ubuntu notes app and keep a running copy locally. I've also switched to LabEx's courses because the labs are hands-on and cover the same material as the other section, but fit my learning style better.
+
+**Topics:** Linux command line
+**Platform:** LabEx
+**Skill tree:** Linux
+**Course:** Quick Start with Linux
+**Lab:** Your First Linux Lab
+**Time studied:** [fill in]
+
+### Linux
+Reviewed `cd` and `pwd` (using `cd` to get to the right directory and `pwd` to confirm I was there), plus `echo` for displaying text.
+
+**Commands I learned**
+
+| Command | What it does |
+|---|---|
+| `>` | Output redirection: sends a command's output into the file named on the right (e.g. a `.txt` file). If the file already exists, it gets replaced, so check the destination first when working with important data |
+| `date` | Prints the current date and time (weekday, date, time, time zone, year) |
+| `date +` | The `+` lets me choose how and what information is printed |
+| `%F` | Prints the date in ISO format (ISO = International Organization for Standardization) |
+| `date +%F` | Prints the date as YYYY-MM-DD (year-month-day) |
+| `cal` | Calendar: displays the current month's calendar |
+| `expr` | Expression: does integer arithmetic, string manipulation and logical comparisons, mostly used inside shell scripts |
+| `figlet` | Prints text in large letters made from characters/symbols |
+| `figlet -f slant` | `-f` lets me choose a preset font; `slant` is a slanted font (like italics) |
+| `clear` | [ timed out - Uncompleted |
+
+**`expr` math operators**
+
+| Operator | Operation |
+|---|---|
+| `+` | Addition |
+| `-` | Subtraction |
+| `/` | Division |
+| `\*` | Multiplication |
+
+**Note:** The terminal treats `*` as a wildcard. To use it as multiplication, put a backslash in front of it: `\*`. The lab also stressed that spaces matter, because the shell separates commands into words using spaces.
+
+### What I struggled with
+- **Problem:** The lab never explained what `expr` actually is.
+- **Cause:** The lab focused on using it, not on what it means.
+- **Fix:** Looked it up myself (integer arithmetic, string manipulation and logical comparison in shell scripts).
+
+### What I built
+- Saved the current date into `today.txt` using `>`, then read it back with `cat`.
+- Saved the current month's calendar to a text file using `>`.
+- Saved the result of 6 × 7 into `calculation.txt` using `>` (`expr 6 \* 7 > calculation.txt`), then opened it to see the answer, 42.
+
+### Next session
+- finish last section of lesson
+- switch back to the training document used with training day 1. this will give me a day to learn something new, then through the repetition of the first document, reinforce what I am learning.
