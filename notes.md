@@ -69,7 +69,7 @@ A short joke story in `hello.py` using `print()`. I ran it from the terminal, st
 
 
 
-## Training Day 2
+## Training Day 3
 ### Note:
 - I'm still learning and setting my standard as I go, so this format will keep changing as I figure out what works. On Day 2 my notes weren't as good because I went through the lesson first and then wrote them from memory. Today I tried typing notes as I learned, but it took too much time during the lesson and I wasn't able to finish it. Next time I'll jot quick notes on a notepad in my own words, then use Claude to organize them so they're easier for readers to follow. I take my notes in the default Ubuntu notes app and keep a running copy locally. I've also switched to LabEx's courses because the labs are hands-on and cover the same material as the other section, but fit my learning style better.
 
@@ -121,4 +121,4 @@ Reviewed `cd` and `pwd` (using `cd` to get to the right directory and `pwd` to c
 
 ### Next session
 - finish last section of lesson
-- switch back to the training document used with training day 1. this will give me a day to learn something new, then through the repetition of the first document, reinforce what I am learning.
+- switch back to the training document used with training day 1. this will give me a day to learn something new, then through the repetition of the Linux-python-daily-plan.pdf document, to reinforce what I am learning.
