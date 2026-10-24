@@ -122,3 +122,69 @@ Reviewed `cd` and `pwd` (using `cd` to get to the right directory and `pwd` to c
 ### Next session
 - finish last section of lesson
 - switch back to the training document used with training day 1. this will give me a day to learn something new, then through the repetition of the Linux-python-daily-plan.pdf document, to reinforce what I am learning.
+
+
+
+
+
+## Training Day 4
+### Notes:
+- A busy couple of days with personal appointments threw off my sleep schedule, so today was a lighter, exploratory day. I downloaded a few terminal-learning apps from the app store (like Learn Terminal Fun) to play around with. First I finished the LabEx lab I never fully completed, then I started following the Linux & Python Daily Spiral Learning Plan (linux-python-daily-plan.pdf), which puts me on Day 2 for both Linux and Python. I plan to update my README to include the plan and how it's structured. I'm posting the Linux portion now and will come back for Python after some sleep.
+
+**Topics:** Linux (directories and files), Python (variables and data types)
+**Sources:** LabEx (Quick Start with Linux, Your First Linux Lab) and the Linux & Python Daily Spiral Learning Plan, Day 2
+**Time studied:** [fill in]
+
+### Linux
+Finished the rest of the LabEx lab, then started Day 2 of the plan. Reviewed Day 1's commands (`whoami`, `pwd`, `cd`, `ls`) before adding anything new.
+
+**Goals / Homework**
+- [x] Create a folder called `linux_practice` in my home directory with three files inside it, using only the terminal
+- [x] Repeat Day 1's full sequence from memory before doing today's homework
+
+**Commands I learned**
+
+| Command | What it does |
+|---|---|
+| `mkdir` | Make directory: creates a new folder in the file system. Can create multiple folders at once |
+| `touch` | Creates an empty file. Can create multiple files at once |
+| `nano` | Simple text editor: open a file, type a message, then save and exit (Ctrl+O to save, Enter to confirm, Ctrl+X to exit) |
+| `cat` | Prints a file's contents to the screen, so I can preview a file after editing it |
+| `chmod` | Changes permissions. Used it to make an executable file (`chmod +x`). Permissions get covered in full later in the plan |
+| `rmdir` | Removes a directory |
+
+**Practice (repeated 3-5 times)**
+- Made folders, `cd` into them, and confirmed my location with `pwd`
+- Created three different files with `touch`, then used `ls` to see them in the directory
+- Opened files with `nano`, left a message, saved, exited, and used `cat` to preview
+
+**What I forgot and how I remembered:** 
+-between these two training materials of LabEx and the Daily plan doc, as well as other apps and open source infomation I look at when I have a chance. I didn't really forget anything but did trip up a few times between touch and cat for some reason.
+
+### What I struggled with
+- **Problem:** The `.txt` files I made in the LabEx lab were gone when I went back to finish it.
+- **Cause:** The lab session timed out.
+- **Fix:** Rebuilt them. It turned into a quick refresh of the earlier commands.
+
+- **Problem:** I started building my own folder structure (a `US` folder with a folder for each state and city, each with a `.txt` file) instead of following the plan.
+- **Cause:** I didn't want to clog my everyday file system and Desktop with folders and documents. so I tried to create the US one inside my own study work folder. but later decided against it and to stick to the plan.
+- **Fix:** Deleted all of it, in case the plan builds on its own structure later. Lesson learned: follow the training doc. It did give me extra practice with `mkdir` (including several folders at once), creating files, and `rmdir`.
+
+### What I built
+- `home/linux_practice/practice/subfolder` with three files inside
+- An executable file, made with `chmod`
+
+### Side note for now (will delete later)
+- appointments have disturbed my sleeping scheduled, so I am getting some sleep and will return later in hopes to finish python. 
+
+### Python
+**Goals / Homework**
+- [ ] Update `about_me.py` to use variables and f-strings instead of hardcoded text in every `print()`
+- [ ] Redo Day 1's practice from memory before starting (I'll note what I forgot, where and how I looked it up, and anything else I picked up)
+
+**Concepts for today:** variables, data types (`str`, `int`, `float`) and f-strings.
+
+[Python notes to fill in after the session]
+
+### Next session
+- [fill in]
